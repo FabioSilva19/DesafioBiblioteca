@@ -1,0 +1,14 @@
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\bin\Debug\net8.0\22 - Desafio Biblioteca.exe
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\bin\Debug\net8.0\22 - Desafio Biblioteca.deps.json
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\bin\Debug\net8.0\22 - Desafio Biblioteca.runtimeconfig.json
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\bin\Debug\net8.0\22 - Desafio Biblioteca.dll
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\bin\Debug\net8.0\22 - Desafio Biblioteca.pdb
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\22 - Desafio Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\22 - Desafio Biblioteca.AssemblyInfoInputs.cache
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\22 - Desafio Biblioteca.AssemblyInfo.cs
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\22 - Desafio Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\22 - Desafio Biblioteca.dll
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\refint\22 - Desafio Biblioteca.dll
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\22 - Desafio Biblioteca.pdb
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\22 - Desafio Biblioteca.genruntimeconfig.cache
+C:\Users\CAA144\Desktop\Fabio\Curso C#\22 - Desafio Biblioteca\22 - Desafio Biblioteca\obj\Debug\net8.0\ref\22 - Desafio Biblioteca.dll
